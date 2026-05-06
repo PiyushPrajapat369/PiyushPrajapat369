@@ -1,12 +1,17 @@
 👋 About Me
+
 Hi, I’m an MCA student passionate about building AI Assistants, exploring programming, and spreading cyber security awareness.
 I love turning ideas into smart systems — especially voice-controlled assistants that can understand commands, automate tasks, and interact with computers like a real digital helper. I enjoy experimenting with AI, APIs, and automation to make technology more practical in everyday life.
 Along the way, I keep sharpening my coding skills and sharing knowledge to help people stay safe in the digital world.
 
 🚀 What I’m Working On
+
 🤖 Voice-controlled AI Assistant projects
+
 💻 Python, APIs, and automation experiments
+
 🌐 AI control over PC and browser tasks
+
 🔐 Cyber security awareness and learning
 
 🎯 My Aim
